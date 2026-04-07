@@ -1,6 +1,6 @@
-from command_line.data_structures.array import Array
-from command_line.data_structures.generic_tree import GenericTree
-from command_line.data_structures.sort import insertion_sort
+from data_structures.array import Array
+from data_structures.generic_tree import GenericTree
+from data_structures.sort import insertion_sort
 
 
 class File:

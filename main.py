@@ -1,6 +1,6 @@
-from command_line.data_access.directories import Directories
-from command_line.logic.management import Management
-from command_line.presentation.interface import Interface
+from data_access.directories import Directories
+from logic.management import Management
+from presentation.interface import Interface
 
 if __name__ == "__main__":
     directories = Directories()

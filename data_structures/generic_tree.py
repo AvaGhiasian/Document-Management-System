@@ -1,4 +1,4 @@
-from command_line.data_structures.singly_linked_list import SLL
+from data_structures.singly_linked_list import SLL
 
 
 class TreeNode:
